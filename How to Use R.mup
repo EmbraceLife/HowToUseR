@@ -1,0 +1,43 @@
+{
+  "title": "How to Use R",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "in R console",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "getwd()",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "get your working directory",
+              "id": 4
+            }
+          }
+        },
+        "2": {
+          "title": "dir()",
+          "id": 5,
+          "ideas": {
+            "1": {
+              "title": "find out what inside",
+              "id": 6
+            }
+          }
+        },
+        "3": {
+          "title": "read.csv(\"xxx.csv\")",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "read data from csv file",
+              "id": 8
+            }
+          }
+        }
+      }
+    }
+  }
+}
